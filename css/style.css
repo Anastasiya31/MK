@@ -149,7 +149,9 @@ button {
 
 
 @media(max-width: 768px){
-
+  body{
+    background: #000;
+  }
   .app{
     height: auto;
     padding-bottom: 400px;
